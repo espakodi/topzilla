@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <img src="icon.jpg" width="150" alt="Logo de TopZilla">
+  <img src="icon.jpg" width="250" alt="Logo de TopZilla">
 </p>
 
 <br>
