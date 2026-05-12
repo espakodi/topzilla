@@ -14,8 +14,7 @@
 Repositorio y más información: https://espatv.github.io/topzilla/
 
 ## Descripción
->
-> TopZilla muestra rankings, información y vídeos relacionados de películas y series. Además permite buscarlas, filtrarlas y guardar en tu biblioteca o consultar sus fichas con solo dos clics, estés donde estés en tu Kodi.
+TopZilla muestra rankings, información y vídeos relacionados de películas y series. Además permite buscarlas, filtrarlas y guardar en tu biblioteca o consultar sus fichas con solo dos clics, estés donde estés en tu Kodi.
 
 ## Verificación de integridad TopZilla v1.4.0:
 - Tamaño:   317 809 bytes (310.4 KB)
@@ -23,4 +22,4 @@ Repositorio y más información: https://espatv.github.io/topzilla/
 - MD5: ff8e28f01b6fa9900afab303468ba1ba
 
 <br>
-This repository and the TopZilla Kodi Addon do NOT host, contain, provide, or distribute any copyrighted video, audio, or multimedia content. TopZilla is a metadata browser and movie encyclopedia (fetching data such as posters, synopsis, and cast). Video playback is delegated entirely to third-party addons like YouTube solely for the purpose of viewing trailers.
+> This repository and the TopZilla Kodi Addon do NOT host, contain, provide, or distribute any copyrighted video, audio, or multimedia content. TopZilla is a metadata browser and movie encyclopedia (fetching data such as posters, synopsis, and cast). Video playback is delegated entirely to third-party addons like YouTube solely for the purpose of viewing trailers.
